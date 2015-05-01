@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Balls\'n\'Holes</string>
+    <string name="hints">Tilt your phone and draw lines to make the balls fall in correct holes!</string>
+    <string name="wallHint">\nWatch out! Some of the walls have gone.</string>
+
+</resources>
